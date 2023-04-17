@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YJVxog503LxBD29vXQoUM+UXGIwokiRdNBDHP0mXkqAJISQ0FD2xVppTornlzjjOFew1mn6KdZ8RyEkebLFP3w==",
+  "dgSpecHash": "B6LoEyzqVZha6yQ7OOoJQK1g3itjjtSHnuUHqXbptpxmnFxdaLGdzjUq6ltKhJRtD7aQuwsU2k0YSLZLkfbNXw==",
   "success": true,
-  "projectFilePath": "H:\\Practice\\PluralSight\\DotNet\\ASP.NET Core 6 Fundamentals\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+  "projectFilePath": "C:\\Users\\samich\\Documents\\PluralSight\\ASP.NET Core 6 Fundamentals\\practice-asp.net-core\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Practice\\PluralSight\\DotNet\\ASP.NET Core 6 Fundamentals\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "C:\\Users\\samich\\Documents\\PluralSight\\ASP.NET Core 6 Fundamentals\\practice-asp.net-core\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "H:\\Practice\\PluralSight\\DotNet\\ASP.NET Core 6 Fundamentals\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "C:\\Users\\samich\\Documents\\PluralSight\\ASP.NET Core 6 Fundamentals\\practice-asp.net-core\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Practice\\PluralSight\\DotNet\\ASP.NET Core 6 Fundamentals\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "C:\\Users\\samich\\Documents\\PluralSight\\ASP.NET Core 6 Fundamentals\\practice-asp.net-core\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "H:\\Practice\\PluralSight\\DotNet\\ASP.NET Core 6 Fundamentals\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
-        "packagesPath": "C:\\Users\\samantha.hallcox\\.nuget\\packages\\",
-        "outputPath": "H:\\Practice\\PluralSight\\DotNet\\ASP.NET Core 6 Fundamentals\\Projects\\BethanysPieShop\\BethanysPieShop\\obj\\",
+        "projectPath": "C:\\Users\\samich\\Documents\\PluralSight\\ASP.NET Core 6 Fundamentals\\practice-asp.net-core\\Projects\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
+        "packagesPath": "C:\\Users\\samich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samich\\Documents\\PluralSight\\ASP.NET Core 6 Fundamentals\\practice-asp.net-core\\Projects\\BethanysPieShop\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\samantha.hallcox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samich\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
